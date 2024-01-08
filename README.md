@@ -1,2 +1,2 @@
-# sample-data
-Sample Data
+# samples
+Sample Datas
